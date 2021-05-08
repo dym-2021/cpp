@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cfloat": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "b0208_picpp": "cpp"
+    }
+}
