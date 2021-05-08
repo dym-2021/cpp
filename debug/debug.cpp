@@ -1,6 +1,7 @@
-#include<iostream>
-using namespace std;
+#include<stdio.h>
+
 
 int main(){
-    cout << "hello world" << endl;
+   int s = 2;
+   printf("hello");
 }
